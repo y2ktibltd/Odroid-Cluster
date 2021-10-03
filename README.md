@@ -7,5 +7,4 @@ you will also want to change the individual nodes to allow running commands as r
 
 uncomment out the line...
 
-## Same thing without a password
 %wheel ALL=(ALL) NOPASSWD: ALL
