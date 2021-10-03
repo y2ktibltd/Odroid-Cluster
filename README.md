@@ -5,6 +5,6 @@ you will also want to change the individual nodes to allow running commands as r
 
 #sudo visudo
 
-uncomment out the line...
+# uncomment out the line...
 
 %wheel ALL=(ALL) NOPASSWD: ALL
